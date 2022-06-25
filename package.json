@@ -1,0 +1,24 @@
+{
+  "name": "izublog",
+  "version": "1.0.0",
+  "description": "blogging site",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Izurays/izublog.git"
+  },
+  "author": "Onyeocha Izunna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Izurays/izublog/issues"
+  },
+  "homepage": "https://github.com/Izurays/izublog#readme",
+  "dependencies": {
+    "express-fileupload": "^1.4.0",
+    "express.js": "^1.0.0",
+    "nodemon": "^1.3.3"
+  }
+}
